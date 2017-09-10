@@ -1,0 +1,4 @@
+//add plugin
+classpath "org.jetbrains.kotlin:kotlin-android-extensions:$kotlin_version"
+// module:app
+apply plugin: 'kotlin-android-extensions'
